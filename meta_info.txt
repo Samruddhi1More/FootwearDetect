@@ -1,0 +1,21 @@
+**Types of Footwear Classification**
+
+Number of Footwear Type: 6
+Footwear Types: ['boots', 'flip_flops', 'loafers', 'sandals', 'sneakers', 'soccer_shoes']
+
+Number of Images in every type: 299
+
+Total number of images: 1794
+
+Training Result:
+K    Training    Test
+1     100.00%   83.82%
+
+2      99.19%   86.13%
+
+3      98.43%   84.97%
+
+4      99.91%   84.97%
+
+5      99.91%   87.28%
+
